@@ -1,4 +1,4 @@
-#快速开始Sequential模型
+# 快速开始Sequential模型
 
 ```Sequential```是多个网络层的线性堆叠
 
