@@ -2,7 +2,6 @@
 * :ref:`getting_started`
 * :ref:`models`
 * :ref:`layers`
-* :ref:`preprocessing`
 * :ref:`other`
 * :ref:`backend`
 * :ref:`scikit-learn_API`
@@ -73,19 +72,6 @@
     layers/noise_layer
     layers/wrapper
     layers/writting_layer
-
-.. _preprocessing:
-
-########
- 预处理
-########
-
-.. toctree::
-   :maxdepth: 1
-
-    preprocessing/sequence
-    preprocessing/text
-    preprocessing/image
 
 .. _other:
 
