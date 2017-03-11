@@ -28,7 +28,7 @@
 ##########
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    getting_started/concepts
    getting_started/keras_linux
