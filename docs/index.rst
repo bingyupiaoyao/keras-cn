@@ -13,25 +13,25 @@
 .. _index:
 
 .. toctree::
-   :maxdepth: 1
-   :caption: 主页
+    :maxdepth: 1
+    :caption: 主页
 
-   index
+    index
 
 .. _getting_started:
 
 .. toctree::
-   :maxdepth: 1
-   :caption: 快速开始
+    :maxdepth: 1
+    :caption: 快速开始
 
-   getting_started/concepts
-   getting_started/keras_linux
-   getting_started/keras_windows
-   getting_started/sequential_model
-   getting_started/functional_API
-   getting_started/FAQ
-   getting_started/trap
-   getting_started/examples
+    getting_started/concepts
+    getting_started/keras_linux
+    getting_started/keras_windows
+    getting_started/sequential_model
+    getting_started/functional_API
+    getting_started/FAQ
+    getting_started/trap
+    getting_started/examples
 
 .. _models:
 
