@@ -13,7 +13,7 @@
 .. _index:
 
 .. toctree::
-   :maxdepth: 0
+   :maxdepth: 1
    :caption: 主页
 
    index
@@ -21,7 +21,7 @@
 .. _getting_started:
 
 .. toctree::
-   :maxdepth: 0
+   :maxdepth: 1
    :caption: 快速开始
 
    getting_started/concepts
@@ -35,12 +35,9 @@
 
 .. _models:
 
-######
- 模型
-######
-
 .. toctree::
     :maxdepth: 1
+    :caption: 模型
 
     models/about_model
     models/sequential
@@ -48,12 +45,9 @@
 
 .. _layers:
 
-########
- 网络层
-########
-
 .. toctree::
     :maxdepth: 1
+    :caption: 网络层
 
     layers/about_layer
     layers/core_layer
@@ -70,12 +64,9 @@
 
 .. _preprocessing:
 
-########
- 预处理
-########
-
 .. toctree::
     :maxdepth: 1
+    :caption: 预处理
 
     preprocessing/sequence
     preprocessing/text
@@ -83,12 +74,9 @@
 
 .. _other:
 
-##############
- 其他重要模块
-##############
-
 .. toctree::
     :maxdepth: 1
+    :caption: 其他重要模块
 
     other/objectives
     other/optimizers
@@ -104,34 +92,25 @@
 
 .. _backend:
 
-##################
- keras后端Backend
-##################
-
 .. toctree::
     :maxdepth: 1
+    :caption: keras后端Backend
 
     backend
 
 .. _scikit-learn_API:
 
-##################
- scikit-learn接口
-##################
-
 .. toctree::
     :maxdepth: 1
+    :caption: scikit-learn接口
 
     scikit-learn_API
 
 .. _utils:
 
-######
- 工具
-######
-
 .. toctree::
     :maxdepth: 1
+    :caption: 工具
 
     utils/data_utils
     utils/io_utils
@@ -140,12 +119,9 @@
 
 .. _blog:
 
-#################
- 深度学习与Keras
-#################
-
 .. toctree::
     :maxdepth: 1
+    :caption: 深度学习与Keras
 
     blog/cnn_see_world
     blog/autoencoder
@@ -155,12 +131,9 @@
 
 .. _acknowledgement:
 
-######
- 致谢
-######
-
 .. toctree::
     :maxdepth: 1
+    :caption: 致谢
 
     acknowledgement
 
