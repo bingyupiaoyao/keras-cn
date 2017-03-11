@@ -1,6 +1,7 @@
 * :ref:`index`
 * :ref:`getting_started`
 * :ref:`models`
+* :ref:`layers`
 * :ref:`preprocessing`
 * :ref:`other`
 * :ref:`backend`
@@ -51,6 +52,28 @@
     models/sequential
     models/model
 
+.. _layers:
+
+########
+ 网络层
+########
+
+.. toctree::
+    :maxdepth: 1
+
+    layers/about_layer
+    layers/core_layer
+    layers/convolutional_layer
+    layers/pooling_layer
+    layers/locally_connected_layer
+    layers/recurrent_layer
+    layers/embedding_layer
+    layers/advanced_activation_layer
+    layers/normalization_layer
+    layers/noise_layer
+    layers/wrapper
+    layers/writting_layer
+
 .. _preprocessing:
 
 ########
@@ -58,7 +81,7 @@
 ########
 
 .. toctree::
-   :maxdepth: 1
+    :maxdepth: 1
 
     preprocessing/sequence
     preprocessing/text
@@ -71,7 +94,7 @@
 ##############
 
 .. toctree::
-   :maxdepth: 1
+    :maxdepth: 1
 
     other/objectives
     other/optimizers
@@ -92,7 +115,7 @@
 ##################
 
 .. toctree::
-   :maxdepth: 1
+    :maxdepth: 1
 
     backend
 
@@ -103,7 +126,7 @@
 ##################
 
 .. toctree::
-   :maxdepth: 1
+    :maxdepth: 1
 
     scikit-learn_API
 
@@ -114,7 +137,7 @@
 ######
 
 .. toctree::
-   :maxdepth: 1
+    :maxdepth: 1
 
     utils/data_utils
     utils/io_utils
@@ -128,7 +151,7 @@
 #################
 
 .. toctree::
-   :maxdepth: 1
+    :maxdepth: 1
 
     blog/cnn_see_world
     blog/autoencoder
@@ -143,7 +166,7 @@
 ######
 
 .. toctree::
-   :maxdepth: 1
+    :maxdepth: 1
 
     acknowledgement
 
