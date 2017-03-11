@@ -21,6 +21,11 @@
 # import sys
 # sys.path.insert(0, os.path.abspath('.'))
 import sys, os, re
+from recommonmark.parser import CommonMarkParser
+
+source_parsers = {
+    '.md': CommonMarkParser,
+}
 
 # -- General configuration ------------------------------------------------
 
@@ -50,7 +55,8 @@ templates_path = ['_templates']
 # You can specify multiple suffix as a list of string:
 #
 # source_suffix = ['.rst', '.md']
-source_suffix = '.rst'
+# source_suffix = '.rst'
+source_suffix = ['.rst', '.md']
 
 # The encoding of source files.
 #
