@@ -1,7 +1,3 @@
-%%%%%%%%%%%%%
-Keras中文文档
-%%%%%%%%%%%%%
-
 * :ref:`index`
 * :ref:`getting_started`
 * :ref:`models`
@@ -32,7 +28,7 @@ Keras中文文档
 ##########
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
 
    getting_started/concepts
    getting_started/keras_linux
