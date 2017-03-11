@@ -12,23 +12,17 @@
 
 .. _index:
 
-######
- 主页
-######
-
 .. toctree::
    :maxdepth: 0
+   :caption: 主页
 
    index
 
 .. _getting_started:
 
-##########
- 快速开始
-##########
-
 .. toctree::
    :maxdepth: 0
+   :caption: 快速开始
 
    getting_started/concepts
    getting_started/keras_linux
