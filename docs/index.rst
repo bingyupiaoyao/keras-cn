@@ -1,7 +1,7 @@
 * :ref:`index`
 * :ref:`getting_started`
 * :ref:`models`
-* :ref:`layers`
+* :ref:`preprocessing`
 * :ref:`other`
 * :ref:`backend`
 * :ref:`scikit-learn_API`
@@ -51,27 +51,18 @@
     models/sequential
     models/model
 
-.. _layers:
+.. _preprocessing:
 
 ########
- 网络层
+ 预处理
 ########
 
 .. toctree::
-    :maxdepth: 1
+   :maxdepth: 1
 
-    layers/about_layer
-    layers/core_layer
-    layers/convolutional_layer
-    layers/pooling_layer
-    layers/locally_connected_layer
-    layers/recurrent_layer
-    layers/embedding_layer
-    layers/advanced_activation_layer
-    layers/normalization_layer
-    layers/noise_layer
-    layers/wrapper
-    layers/writting_layer
+    preprocessing/sequence
+    preprocessing/text
+    preprocessing/image
 
 .. _other:
 
