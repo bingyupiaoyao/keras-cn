@@ -1,6 +1,7 @@
 Keras中文文档
 =============
 
+* :ref:`home`
 * :ref:`getting_started`
 * :ref:`models`
 * :ref:`layers`
@@ -11,6 +12,14 @@ Keras中文文档
 * :ref:`utils`
 * :ref:`blog`
 * :ref:`acknowledgement`
+
+.. _home:
+
+.. toctree::
+    :maxdepth: 1
+    :caption: 主页
+
+    home
 
 .. _getting_started:
 
